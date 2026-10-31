@@ -1,0 +1,17 @@
+build/
+dist/
+backups/
+publish/
+qa/
+scripts/local/
+*.app/
+*.zip
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+*.p12
+*.mobileprovision

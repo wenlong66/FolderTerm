@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>app.folderterm.FolderTerm.Toolbar</string>
+<key>CFBundleName</key><string>FolderTerm 工具栏</string>
+<key>CFBundleDisplayName</key><string>FolderTerm 工具栏</string>
+<key>CFBundleExecutable</key><string>FolderTermToolbar</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>0.4.0</string>
+<key>CFBundleVersion</key><string>4</string>
+<key>CFBundleIconFile</key><string>FolderTerm</string>
+<key>LSMinimumSystemVersion</key><string>12.0</string>
+<key>LSUIElement</key><true/>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSAppleEventsUsageDescription</key><string>FolderTerm 工具栏入口需要读取当前 Finder 文件夹，并让你选择的终端在该文件夹中打开。此入口独立于配置 App，需要单独确认自动化权限。</string>
+</dict></plist>
